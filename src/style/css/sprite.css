@@ -1,0 +1,154 @@
+.icon {
+  background: url("../../image/sprite-06e70dbc.svg") no-repeat;
+}
+
+.icon-arrow-top {
+  background-position: 82.3008849558% 60.4651162791%;
+  width: 13px;
+  height: 7px;
+}
+
+.icon-autumn {
+  background-position: 69.4444444444% 0;
+  width: 18px;
+  height: 20px;
+}
+
+.icon-autumn-red {
+  background-position: 68.8073394495% 27.027027027%;
+  width: 17px;
+  height: 19px;
+}
+
+.icon-autumn-white {
+  background-position: 0 100%;
+  width: 19px;
+  height: 20px;
+}
+
+.icon-benefits {
+  background-position: 68.1818181818% 52.7027027027%;
+  width: 16px;
+  height: 19px;
+}
+
+.icon-button-arrow-right {
+  background-position: 50.4761904762% 27.8481012658%;
+  width: 21px;
+  height: 14px;
+}
+
+.icon-calculator {
+  background-position: 84.5454545455% 0;
+  width: 16px;
+  height: 18px;
+}
+
+.icon-common-square {
+  background-position: 17.9245283019% 100%;
+  width: 20px;
+  height: 20px;
+}
+
+.icon-contacts {
+  background-position: 99.0909090909% 92.2077922078%;
+  width: 16px;
+  height: 16px;
+}
+
+.icon-linear-dimensions {
+  background-position: 23.0769230769% 40%;
+  width: 22px;
+  height: 23px;
+}
+
+.icon-mail {
+  background-position: 36.7924528302% 98.6486486486%;
+  width: 20px;
+  height: 19px;
+}
+
+.icon-map {
+  background-position: 82.3008849558% 24%;
+  width: 13px;
+  height: 18px;
+}
+
+.icon-projects {
+  background-position: 0 0;
+  width: 28px;
+  height: 28px;
+}
+
+.icon-sale-arrow {
+  background-position: 84.5454545455% 46.7532467532%;
+  width: 16px;
+  height: 16px;
+}
+
+.icon-size {
+  background-position: 0 40.5797101449%;
+  width: 24px;
+  height: 24px;
+}
+
+.icon-square {
+  background-position: 27.7227722772% 0;
+  width: 25px;
+  height: 23px;
+}
+
+.icon-summer {
+  background-position: 0 72.2222222222%;
+  width: 21px;
+  height: 21px;
+}
+
+.icon-summer-red {
+  background-position: 50.9615384615% 0;
+  width: 22px;
+  height: 22px;
+}
+
+.icon-summer-white {
+  background-position: 20% 72.2222222222%;
+  width: 21px;
+  height: 21px;
+}
+
+.icon-team {
+  background-position: 100% 0;
+  width: 17px;
+  height: 18px;
+}
+
+.icon-time {
+  background-position: 40% 72.2222222222%;
+  width: 21px;
+  height: 21px;
+}
+
+.icon-winter {
+  background-position: 99.0909090909% 24%;
+  width: 16px;
+  height: 18px;
+}
+
+.icon-winter-red {
+  background-position: 99.0909090909% 48%;
+  width: 16px;
+  height: 18px;
+}
+
+.icon-winter-white {
+  background-position: 98.1981981982% 71.0526315789%;
+  width: 15px;
+  height: 17px;
+}
+
+.icon-works {
+  background-position: 55.6603773585% 98.6486486486%;
+  width: 20px;
+  height: 19px;
+}
+/*# sourceMappingURL=sprite.css.map */

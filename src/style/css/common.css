@@ -1,0 +1,219 @@
+body {
+  min-width: 320px;
+  font-family: "Inter", sans-serif;
+  color: #394551;
+}
+
+.icon {
+  display: inline-block;
+}
+
+.logo-container {
+  display: inline-block;
+}
+
+.logo {
+  width: 100%;
+}
+
+.btn.outline-yellow {
+  max-width: 210px;
+  width: 100%;
+  border: 1px solid #FEDB09;
+  -webkit-border-radius: 40px;
+     -moz-border-radius: 40px;
+          border-radius: 40px;
+}
+.btn.outline-yellow:hover {
+  border-color: #D93C6C;
+}
+
+.nav-button {
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 0;
+  background-color: #FAFAFA;
+}
+
+.icon-bar {
+  display: block;
+  width: 27px;
+  height: 3px;
+  background-color: #394551;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+  position: relative;
+}
+.icon-bar:after {
+  content: "";
+  width: 27px;
+  height: 3px;
+  top: 7px;
+  display: block;
+  background-color: #394551;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+  position: absolute;
+}
+.icon-bar:before {
+  content: "";
+  width: 27px;
+  height: 3px;
+  top: -7px;
+  display: block;
+  background-color: #394551;
+  -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+          border-radius: 5px;
+  position: absolute;
+}
+
+.letter {
+  color: #FEDB09;
+  position: relative;
+}
+.letter:after {
+  content: "";
+  width: 31px;
+  position: absolute;
+  top: 5px;
+  left: 0;
+  height: 18px;
+  display: inline-block;
+  background-image: url("data:image/svg+xml,%3Csvg width='31' height='18' viewBox='0 0 31 18' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0 17.9644C4.57922 17.8587 2.05315 18.3047 7.99314 12.0709C9.88231 10.0879 9.68073 10.0921 11.2868 7.92231C16.2667 1.19504 17.7799 5.56981 25.9812 15.605C28.5561 18.7556 25.8448 17.8455 31 17.9644C30.5611 12.4932 27.4712 11.1539 24.3719 7.81896C20.3648 3.50738 18.3789 0.705327 16.4932 0H14.614C12.8118 0.64473 10.5933 3.10292 6.60293 7.79289C3.55842 11.3712 0.459326 12.2421 0 17.9644Z' fill='%23FEDB09'/%3E%3C/svg%3E");
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.btn.get-consultation-button {
+  max-width: 283px;
+  width: 100%;
+  -webkit-border-radius: 40px;
+     -moz-border-radius: 40px;
+          border-radius: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 17px;
+  line-height: 21px;
+  font-weight: 500;
+}
+
+.button-red {
+  background: #D93C6C;
+  color: #FFFFFF;
+}
+.button-red:hover {
+  border: 1px solid #D93C6C;
+  background: #FFFFFF;
+  color: #D93C6C;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  -moz-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.section-title {
+  font-family: "Philosopher", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  text-align: center;
+}
+.section-title .letter:after {
+  width: 26px;
+  height: 15px;
+  top: 0;
+  left: -2px;
+}
+
+.hightlighted {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
+.advantage-container {
+  margin-top: 30px;
+}
+
+.section-subtitle {
+  text-align: center;
+  color: #5F5F5F;
+  margin-bottom: 40px;
+}
+
+.footer-container {
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+.company-information {
+  padding-top: 15px;
+  font-size: 12px;
+  line-height: 22px;
+  color: #5F5F5F;
+}
+
+.footer-title {
+  font-weight: 700;
+  line-height: 32px;
+  color: #D93C6C;
+}
+
+.footer-links {
+  padding: 0;
+}
+.footer-links .item {
+  list-style: none;
+  padding-bottom: 10px;
+}
+.footer-links .link {
+  white-space: nowrap;
+  text-decoration: none;
+  color: #394551;
+}
+
+.footer-line {
+  height: 3px;
+  width: 100%;
+  background-color: #F4F0EC;
+}
+
+.copyright {
+  margin-top: 10px;
+  font-size: 11px;
+  line-height: 20px;
+  color: #585858;
+}
+
+.seo-opt-xl {
+  margin-top: 35px;
+  margin-left: 94px;
+}
+
+.outline-red {
+  border: 1px solid #D93C6C;
+  color: #D93C6C;
+}
+.outline-red:hover {
+  background: #D93C6C;
+  color: #FFFFFF;
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  -moz-transition: 0.5s;
+  transition: 0.5s;
+}
+

@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+  src: url("../../font/Inter/Inter-Regular.eot");
+  src: url("../../font/Inter/Inter-Regular.eot?#iefix") format("embedded-opentype"), url("../../font/Inter/Inter-Regular.woff2") format("woff2"), url("../../font/Inter/Inter-Regular.woff") format("woff"), url("../../font/Inter/Inter-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+  src: url("../../font/Inter/Inter-Medium.eot");
+  src: url("../../font/Inter/Inter-Medium.eot?#iefix") format("embedded-opentype"), url("../../font/Inter/Inter-Medium.woff2") format("woff2"), url("../../font/Inter/Inter-Medium.woff") format("woff"), url("../../font/Inter/Inter-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+  src: url("../../font/Inter/Inter-SemiBold.eot");
+  src: url("../../font/Inter/Inter-SemiBold.eot?#iefix") format("embedded-opentype"), url("../../font/Inter/Inter-SemiBold.woff2") format("woff2"), url("../../font/Inter/Inter-SemiBold.woff") format("woff"), url("../../font/Inter/Inter-SemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Inter";
+  font-display: swap;
+  src: url("../../font/Inter/Inter-Bold.eot");
+  src: url("../../font/Inter/Inter-Bold.eot?#iefix") format("embedded-opentype"), url("../../font/Inter/Inter-Bold.woff2") format("woff2"), url("../../font/Inter/Inter-Bold.woff") format("woff"), url("../../font/Inter/Inter-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Philosopher";
+  font-display: swap;
+  src: url("../../font/Philosopher/Philosopher-Bold.eot");
+  src: url("../../font/Philosopher/Philosopher-Bold.eot?#iefix") format("embedded-opentype"), url("../../font/Philosopher/Philosopher-Bold.woff2") format("woff2"), url("../../font/Philosopher/Philosopher-Bold.woff") format("woff"), url("../../font/Philosopher/Philosopher-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Philosopher";
+  font-display: swap;
+  src: url("../../font/Philosopher/Philosopher-Regular.eot");
+  src: url("../../font/Philosopher/Philosopher-Regular.eot?#iefix") format("embedded-opentype"), url("../../font/Philosopher/Philosopher-Regular.woff2") format("woff2"), url("../../font/Philosopher/Philosopher-Regular.woff") format("woff"), url("../../font/Philosopher/Philosopher-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+/*# sourceMappingURL=font.css.map */
